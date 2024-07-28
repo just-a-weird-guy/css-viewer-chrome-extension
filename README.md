@@ -35,4 +35,7 @@ Whether you're debugging a complex layout, trying to understand how a particular
 
 #Installation
 
--Download extension as a zip file **--->** Navigate to **chrome://extensions/** **--->** Enable developer mode **--->** Drag in your zip file and ENJOY!!!
+-Download extension as a zip file **--->** Navigate to **chrome://extensions/** **--->** Enable developer mode **--->** extract your zip into a folder and drag it in AND FINALLY ENJOY!!!
+
+
+> coming to chrome web store soon...
